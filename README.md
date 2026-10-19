@@ -1,3 +1,5 @@
+Early days rework of T-Pot with different goals.
+
 # T-Pot - The All In One Multi Honeypot Platform
 
 ![T-Pot](doc/tpotsocial.png)
